@@ -5,5 +5,5 @@
 
 
 ## Contact
-- ✉️ mariamhamid616@gmai.com
+- ✉️ mariamhamid616@gmail.com
 - 🔗 [LinkedIn] (linkedin.com/in/mariam-hamid/)
