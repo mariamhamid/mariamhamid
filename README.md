@@ -3,7 +3,9 @@
 🤝 Looking to collaborate on open-source LLM/GenAI projects, research papers, and applied AI use cases.
 🛠️ Ask me about ML, Python, LLMs, prompt engineering, model evaluation, and project architecture.
 
-## Contact
-- ✉️ mariamhamid616@gmail.com
-- 🔗 [LinkedIn] (linkedin.com/in/mariam-hamid/)
--portfolio:https://mariamhamid.github.io/main.html
+### Contact:
+✉️ mariamhamid616@gmail.com
+🔗 [LinkedIn] (linkedin.com/in/mariam-hamid/)
+
+### portfolio:
+https://mariamhamid.github.io/main.html
